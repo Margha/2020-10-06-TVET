@@ -121,4 +121,4 @@ exclude:
   - .Rproj.user/
 
 # Turn on built-in syntax highlighting.
-highlighter: rouge
+highlighter: rouge 
